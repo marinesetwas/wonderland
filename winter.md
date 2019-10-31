@@ -8,3 +8,5 @@ Keywords:
 * Snow
 * Christmas
 * Trees
+
+This file was edited on Windows.
