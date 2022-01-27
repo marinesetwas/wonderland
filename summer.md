@@ -9,5 +9,5 @@ Keywords:
 * Swimming
 * Flowers and green Grass.
 
-This file was created originally created using Windows.
+This file was created originally created using Windows.  
 Was currently maintained on Github.
