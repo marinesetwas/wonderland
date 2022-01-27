@@ -9,5 +9,5 @@ Keywords:
 * Christmas
 * Trees
 
-This file was originally edited on Windows.
+This file was originally edited on Windows.  
 And is now created using Github.
