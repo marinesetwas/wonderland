@@ -1,6 +1,6 @@
-# Summer
+# Summer 2022
 
-It's the mid season of the year.
+It will be the mid season of the year.
 
 Keywords:
 
@@ -9,4 +9,5 @@ Keywords:
 * Swimming
 * Flowers and green Grass.
 
-This file was created on Windows.
+This file was created originally created using Windows.
+Was currently maintained on Github.

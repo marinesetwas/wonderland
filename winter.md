@@ -1,6 +1,6 @@
-# Winter
+# Winter 2022
 
-It's the final season of the year.
+It's the final season of the year again.
 
 Keywords:
 
@@ -9,4 +9,5 @@ Keywords:
 * Christmas
 * Trees
 
-This file was edited on Windows.
+This file was originally edited on Windows.
+And is now created using Github.
